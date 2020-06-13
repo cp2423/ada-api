@@ -5,35 +5,35 @@
       "forename": "Chris",
       "surname": "Pitcher",
       "email": "chris@ada.ac.uk",
-      "subject": "CS"
+      "subject": "Computing"
     },
     {
       "id": 2,
       "forename": "Neelu",
       "surname": "Vasishth",
       "email": "neelu@ada.ac.uk",
-      "subject": "CS"
+      "subject": "Computing"
     },
         {
       "id": 3,
       "forename": "Steve",
       "surname": "Rich",
       "email": "steve@ada.ac.uk",
-      "subject": "CS"
+      "subject": "Computing"
     },
     {
       "id": 4,
       "forename": "Tina",
       "surname": "Götschi",
       "email": "tina@ada.ac.uk",
-      "subject": "CS"
+      "subject": "Computing"
     },
     {
       "id": 5,
       "forename": "Mark",
       "surname": "Campbell",
       "email": "markcampbell@ada.ac.uk",
-      "subject": "CS"
+      "subject": "Computing"
     },
     {
       "id": 6,
@@ -68,7 +68,7 @@
       "forename": "Gabriel",
       "surname": "Mozzini",
       "email": "gabriel@ada.ac.uk",
-      "subject": "Business studies"
+      "subject": "Business"
     },
     {
       "id": 11,
