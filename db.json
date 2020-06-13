@@ -24,35 +24,35 @@
   ],
   "rooms": [
     {
-      "name": "Sputnik"
+      "name": "Sputnik",
       "floor": "Ground"
     },    
     {
-      "name": "Voyager"
+      "name": "Voyager",
       "floor": "Ground"
     },
     {
-      "name": "Pioneer"
+      "name": "Pioneer",
       "floor": "Ground"
     },
     {
-      "name": "Endeavour"
+      "name": "Endeavour",
       "floor": "Ground"
     },
     {
-      "name": "Galileo"
+      "name": "Galileo",
       "floor": "First"
     },
     {
-      "name": "Genesis"
+      "name": "Genesis",
       "floor": "First"
     },
     {
-      "name": "Ace"
+      "name": "Ace",
       "floor": "First"
     },
     {
-      "name": "Vega"
+      "name": "Vega",
       "floor": "First"
     }
   ]
