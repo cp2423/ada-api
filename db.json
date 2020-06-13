@@ -1,0 +1,59 @@
+{
+  "teachers": [
+    {
+      "id": 1,
+      "forename": "Chris",
+      "surname": "Pitcher",
+      "email": "chris@ada.ac.uk",
+      "subject": "Computer science"
+    },
+    {
+      "id": 2,
+      "forename": "Neelu",
+      "surname": "Vasishth",
+      "email": "neelu@ada.ac.uk",
+      "subject": "Computer science"
+    },
+    {
+      "id": 3,
+      "forename": "Natasha",
+      "surname": "Reynolds",
+      "email": "natasha@ada.ac.uk",
+      "subject": "Graphics"
+    }
+  ],
+  "rooms": [
+    {
+      "name": "Sputnik"
+      "floor": "Ground"
+    },    
+    {
+      "name": "Voyager"
+      "floor": "Ground"
+    },
+    {
+      "name": "Pioneer"
+      "floor": "Ground"
+    },
+    {
+      "name": "Endeavour"
+      "floor": "Ground"
+    },
+    {
+      "name": "Galileo"
+      "floor": "First"
+    },
+    {
+      "name": "Genesis"
+      "floor": "First"
+    },
+    {
+      "name": "Ace"
+      "floor": "First"
+    },
+    {
+      "name": "Vega"
+      "floor": "First"
+    }
+  ]
+}
